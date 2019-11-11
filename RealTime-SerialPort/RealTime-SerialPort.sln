@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealTime-SerialPort", "RealTime-SerialPort\RealTime-SerialPort.csproj", "{C0B29223-367F-46E3-90EA-312DC2A9C303}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{D207F14E-69BA-4D7C-9F73-945C961D539B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C0B29223-367F-46E3-90EA-312DC2A9C303}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0B29223-367F-46E3-90EA-312DC2A9C303}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0B29223-367F-46E3-90EA-312DC2A9C303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D207F14E-69BA-4D7C-9F73-945C961D539B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D207F14E-69BA-4D7C-9F73-945C961D539B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D207F14E-69BA-4D7C-9F73-945C961D539B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D207F14E-69BA-4D7C-9F73-945C961D539B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

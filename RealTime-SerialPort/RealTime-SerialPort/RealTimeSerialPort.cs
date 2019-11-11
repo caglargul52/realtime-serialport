@@ -11,7 +11,7 @@ namespace RealTime_SerialPort
     public delegate void SuccessReceivedEventHandler(string text);
     public delegate void ErrorReceivedEventHandler(string exceptionMessage);
 
-    class RealTimeSerialPort
+    public class RealTimeSerialPort
     {
         public event SuccessReceivedEventHandler SuccessReceived;
         public event ErrorReceivedEventHandler ErrorReceived;
