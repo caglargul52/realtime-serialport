@@ -1,4 +1,4 @@
-# RealTime SerialPort
+# .NET RealTime SerialPort
 The purpose of writing the library is to automatically connect the USB plug-out.
 
         static void Main(string[] args)
